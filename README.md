@@ -1,10 +1,5 @@
 # clipkg--CLI Package
 
-## PCL Exercise 3
-**Cui Ding (olatname: cding)**
-
-**Mia Tatjana Egli (olatname: miaegl)**
-
 ## Introduction
 
 This entire set of cli codes is for the exercise 3 for PCL2. It tries to parse a joke along with its mata information.
